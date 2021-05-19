@@ -1,0 +1,53 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #393e46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lilita One', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color: #4ecca3;
+}
+
+.btn {
+  font-family: 'Lilita One', cursive;
+  font-size: 1.5rem;
+  color: #4ecca3;
+  background-color: #393e46;
+  border-radius: 25px;
+  padding: 15px;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ecca3;
+  font-family: 'Reenie Beanie', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+.logo {
+  width: auto;
+  align-items: center;
+}
+
+footer {
+  margin-top: 5%;
+  color: #4ecca3;
+  text-align: center;
+  font-family: 'Reenie Beanie', cursive;
+}
